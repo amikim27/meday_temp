@@ -85,6 +85,7 @@ a {
   min-height: 20vh;
   margin-top: auto;
   text-align: center;
+  justify-content: space-around;
 }
 .footer ul {
   font-weight: 200;
@@ -104,7 +105,7 @@ a {
   height: 12px; 
   background: #FFFFFF; 
   position: absolute; 
-  left: 0; 
+  left: 0;  
   top: 2px;
 }
 .footer li:first-child:before {
