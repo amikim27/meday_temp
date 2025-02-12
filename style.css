@@ -17,14 +17,14 @@ p{
   font-size:15pt;
 }
 
-.title {position:absolute;
+.temp_title {position:absolute;
 	top:25%;
 	width:100%;
 	height:300px;
 	text-align:center;
 	margin:0;}
 
-.teml_logo {width:100%; 
+.temp_logo {width:100%; 
 	    height:auto; 
 	    display:flex; 
 	    flex-direction:column; 
