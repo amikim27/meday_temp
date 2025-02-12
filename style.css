@@ -101,12 +101,12 @@ a {
     width: 100%;
   }
   .section h1 {
-    font-size: 30pt;
+    font-size: 2em;
   }
   .section h2 {
-    font-size: 15pt;
+    font-size: 2em;
   }
   .section h3 {
-    font-size: 12pt;
+    font-size: 1em;
   }  
 }
