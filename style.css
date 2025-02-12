@@ -82,15 +82,12 @@ a {
 /* Mobile */
 
 @media screen and (max-width: 768px) {
- 
-  .header {
+   .header {
         flex-direction: column;
         align-items: flex-start;
     }
     .header_menu {
-        display: none;
-        flex-direction: column;
-        align-items: right;
+        align-items: center;
         width: 100%;
     }
   .header_logo {
