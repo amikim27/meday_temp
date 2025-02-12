@@ -93,25 +93,7 @@ a {
   font-family: Noto Sans KR;
   margin-bottom: 50px;
 }
-.footer li {
-  position: relative;
-  display: inline;
-  padding: 0 10px 0 10px;
-}
 
-.footer li:before {
-  content: ''; 
-  width: 1px; 
-  height: 12px; 
-  background: #FFFFFF; 
-  position: absolute; 
-  left: 0;  
-  top: 2px;
-}
-.footer li:first-child:before {
-  width: 0; 
-  height: 0;
-}
 
 /* Mobile */
 
@@ -148,3 +130,8 @@ a {
     font-size: 12pt;
   }  
 }
+
+.footer {
+    width: 100%;
+    text-align: center;
+  }
