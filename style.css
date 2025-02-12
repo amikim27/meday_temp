@@ -31,7 +31,7 @@ p{
 	    align-item:center; 
 	    justify-content:center; 
 	    position:center;}
+      
 .img {max-width:100%;
       margin:0 auto;
-      height:aito;}
-
+      height:auto;}
